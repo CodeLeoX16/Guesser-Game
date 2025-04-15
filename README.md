@@ -5,16 +5,21 @@ A simple console-based game built in C++ that involves a Guesser and three Playe
 -------------------------------------------------------------------------------------------------
 ## 🚀 Features
 
-**Interactive Gameplay:**
+### Interactive Gameplay:
+
      - The Guesser selects a number, and Players provide their guesses.
+     
      - The Umpire evaluates the guesses and announces the winner(s).
      
      
-**Multiple Outcomes:**  
+### Multiple Outcomes:  
+
      - Handles scenarios where one, two, or all players win.
+     
      - Declares if all players lose.
      
-**Object-Oriented Design:**
+### Object-Oriented Design:
+
      - Classes for Guesser, Player, and Umpire ensure modularity and reusability.
      
 ------------------------------------------------------------------------------------------------
