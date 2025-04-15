@@ -1,4 +1,4 @@
-🎮 Guesser Game
+# 🎮 Guesser Game
 A simple console-based game built in C++ that involves a Guesser and three Players. The Guesser selects a number, and the Players try to guess it. The Umpire manages the game by collecting inputs, comparing guesses, and declaring the winner(s).
 
 🚀 Features
