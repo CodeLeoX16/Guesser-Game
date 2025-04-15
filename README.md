@@ -37,19 +37,19 @@ GuesserGame/
 
 ## 📖 How to Play
 
-  **- 1.Clone the repository:**
+  **1.Clone the repository:**
     
     git clone https://github.com/your-username/guesser-game.git
 
-  **- 2.Compile the code using a C++ compiler:**
+  **2.Compile the code using a C++ compiler:**
     
     g++ main.cpp -o guesser_game
     
- **- 3.Run the game:**
+ **3.Run the game:**
     
     ./guesser_game
     
-  - 4.Follow the prompts:
+**4.Follow the prompts:**
     
     * The Guesser selects a number.
      
