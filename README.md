@@ -23,7 +23,7 @@ A simple console-based game built in C++ that involves a Guesser and three Playe
 ## 🛠️ Technologies Used
 
 - C++: For implementing the game logic and structure.
-- 
+  
 ## 📂 Project Structure
 
 GuesserGame/
