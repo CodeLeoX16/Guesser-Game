@@ -7,13 +7,11 @@ A simple console-based game built in C++ that involves a Guesser and three Playe
 
 **Interactive Gameplay:**
      - The Guesser selects a number, and Players provide their guesses.
-     
      - The Umpire evaluates the guesses and announces the winner(s).
      
      
 **Multiple Outcomes:**  
      - Handles scenarios where one, two, or all players win.
-     
      - Declares if all players lose.
      
 **Object-Oriented Design:**
@@ -24,7 +22,7 @@ A simple console-based game built in C++ that involves a Guesser and three Playe
 
 - C++: For implementing the game logic and structure.
   
-## 📂 Project Structure
+## 📂 Project Structure:
 
 GuesserGame/
 
@@ -34,15 +32,15 @@ GuesserGame/
 
 ## 📖 How to Play
 
-  - 1.Clone the repository:
+  **- 1.Clone the repository:**
     
     git clone https://github.com/your-username/guesser-game.git
 
-  - 2.Compile the code using a C++ compiler:
+  **- 2.Compile the code using a C++ compiler:**
     
     g++ main.cpp -o guesser_game
     
-  - 3.Run the game:
+ **- 3.Run the game:**
     
     ./guesser_game
     
